@@ -1,6 +1,6 @@
 {
     "models": [
-        "koharu"
+        "live2d/koharu"
     ],
     "messages": [
         "koharu出现"
